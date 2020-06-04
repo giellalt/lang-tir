@@ -1,0 +1,9 @@
+name = "Tigrinya"
+version = "0.1.0"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.ti"
+
+[windows]
+system_product_code = "110999CA-5C5F-491E-A8AC-9D4331606B66"
+msoffice_product_code = "98CC400E-6960-4B34-92F5-DC5127B23AB4"
