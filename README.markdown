@@ -10,7 +10,8 @@ authors named in the AUTHORS file are available to grant other licencing
 choices.
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-tir)](https://github.com/giellalt/lang-tir/issues)
- [![Build Status](https://github.com/giellalt/lang-tir/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-tir/actions)
+[![Build Status](https://github.com/giellalt/lang-tir/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-tir/actions)
+[![License](https://img.shields.io/github/license/giellalt/template-lang-tir)](https://raw.githubusercontent.com/giellalt/lang-tir/develop/LICENSE)
 
 Install proofing tools and [keyboards](https://github.com/giellalt/keyboard-tir)
 for the Tigrinya language by using the [Divvun Installer](http://divvun.no)
