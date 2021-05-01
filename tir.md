@@ -1,3 +1,54 @@
+Noun inflection
+The Tigrinya language nouns inflect in cases.
+
+
+
+Proper noun inflection
+The Tigrinya language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+
+# Symbol affixes
+
+
+
+
+
+Adjective inflection
+The Tigrinya language adjectives compare.
+
+
+
+Verb inflection
+The Tigrinya language verbs inflect in persons.
+
+
+
+=================================== !
+The Tigrinya morphophonological/twolc rules file !
+=================================== !
+
+
+
+
+
+
+
+
+* *primus%>s*
+* *primus00*
+
+
+* examples:*
+
+* examples:*
+
+
+* examples:*
+
+* examples:*
 
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Tigrinya LANGUAGE.
 
@@ -76,6 +127,85 @@ given the proper use of these flags.
 
 The word forms in Tigrinya language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
+
+Nouns
+Nouns in the Tigrinya language are things.
+
+
+Prefixes
+Prefixes in the Tigrinya language are bound to beginning of other words.
+
+
+
+Pronouns
+Pronouns in the Tigrinya language are references to things.
+
+
+Adjectives
+Adjectives in the Tigrinya language describe things.
+
+
+Verbs
+Verbs in the Tigrinya language are actions.
+
+
+Numerals
+Numerals in the Tigrinya language are numbers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% komma% :,      Root ;
+% tjuohkkis% :%. Root ;
+% kolon% :%:     Root ;
+% sárggis% :%-   Root ; 
+% násti% :%*     Root ; 
 
 
 
