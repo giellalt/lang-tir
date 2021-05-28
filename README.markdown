@@ -3,13 +3,13 @@ The Tigrinya morphology and tools
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-tir)](https://github.com/giellalt/lang-tir/issues)
 [![Build Status](https://github.com/giellalt/lang-tir/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-tir/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-tir)](https://raw.githubusercontent.com/giellalt/lang-tir/develop/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-tir)](https://raw.githubusercontent.com/giellalt/lang-tir/main/LICENSE)
 
 This repository contains finite state source files for the Tigrinya language,
 for building morphological analysers, proofing tools
 and dictionaries. The data and implementation are licenced under __LICENCE__
 licence, also detailed in the
-[LICENCE](https://github.com/giellalt/lang-tir/blob/develop/LICENCE). The
+[LICENSE](https://github.com/giellalt/lang-tir/blob/main/LICENSE). The
 authors named in the AUTHORS file are available to grant other licencing
 choices.
 
@@ -77,7 +77,7 @@ svn checkout https://github.com/giellalt/lang-tir.git/trunk lang-tir
 Building and installation
 -------------------------
 
-[INSTALL](https://github.com/giellalt/lang-tir/blob/develop/INSTALL)
+[INSTALL](https://github.com/giellalt/lang-tir/blob/main/INSTALL)
 describes the GNU build system in detail, but for most users it is the usual:
 
 ```sh
