@@ -4,6 +4,8 @@ The Tigrinya morphology and tools
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-tir)](https://github.com/giellalt/lang-tir/issues)
 [![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-tir/main/badge.svg)](https://github.com/giellalt/lang-tir/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-tir)](https://github.com/giellalt/lang-tir/blob/main/LICENSE)
+[![Desktop speller download](https://img.shields.io/badge/download%40latest-desktop--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-tir?platform=desktop&channel=nightly)
+[![Mobile speller download](https://img.shields.io/badge/download%40latest-mobile--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-tir?platform=mbile&channel=nightly)
 
 This repository contains finite state source files for the Tigrinya language,
 for building morphological analysers, proofing tools
