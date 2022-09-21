@@ -30,7 +30,7 @@ Documentation
 
 Documentation can be found at:
 
--   <https://giellalt.uit.no/lang/tirdoc/index.html>
+- [Language specific documentation](https://giellalt.github.io/lang-tir/)
 -   <https://giellalt.uit.no/index.html>
 
 Core dependencies
