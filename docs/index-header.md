@@ -5,7 +5,6 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-tir)](https://github.com/giellalt/lang-tir/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-tir)](https://github.com/giellalt/lang-tir/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-tir?label=CI)](https://builds.giellalt.org/pipelines/lang-tir/builds/latest)
-[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/__GLOTTOLOG_ID__)
 
 This page documents the work on the **Tigrinya language model**. 
 
