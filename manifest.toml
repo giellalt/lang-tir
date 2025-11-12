@@ -1,6 +1,3 @@
-spellername = "Tigrinya"
-spellerversion = "0.1.1"
-
 # Name of the speller package in various languages.
 # The default is English + autonym:
 [speller.name]
@@ -22,3 +19,15 @@ legacy_product_codes = [
     { value = "110999CA-5C5F-491E-A8AC-9D4331606B66", kind = "nsis" },
     { value = "98CC400E-6960-4B34-92F5-DC5127B23AB4", kind = "nsis" }
 ]
+
+[package.speller]
+name = "Tigrinya"
+version = "0.1.1"
+
+[package.grammar]
+name = "Tigrinya"
+version = "0.1.0"
+
+[package.tts-text-proc]
+name = "Tigrinya"
+version = "0.1.0"
