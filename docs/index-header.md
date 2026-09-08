@@ -4,15 +4,7 @@
 
 {% include_relative language-map.md %}
 
-<div class="badges" markdown="1">
-[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-tir%2Fgenerated%2Fdocs-data%2Ffst-maturity.json)](https://giellalt.github.io/MaturityClassification.html) <br/>
-![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-tir%2Fgenerated%2Fdocs-data%2Ffst-lemmacount.json) <br/>
-[![Speller suggestion quality](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-tir%2Fgenerated%2Fdocs-data%2Fspeller-suggestions.json)](typosreport/) <br/>
-[![License](https://img.shields.io/github/license/giellalt/lang-tir)](https://github.com/giellalt/lang-tir/blob/main/LICENSE) <br/>
-[![Issues](https://img.shields.io/github/issues/giellalt/lang-tir)](https://github.com/giellalt/lang-tir/issues) <br/>
-[![Build Status](https://builds.giellalt.org/api/badge/lang-tir?label=CI)](https://builds.giellalt.org/pipelines/lang-tir/builds/latest) <br/>
-[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/tigr1271)
-</div>
+{% include language-badges.html glottolog_id="tigr1271" %}
 
 Center location data taken from [Glottolog](https://glottolog.org/). Area extent is local data. Both can be adjusted if wrong - file a pull request!
 
